@@ -1,4 +1,4 @@
-# roadmap
+# Roadmap
 Roadmap of upcoming VTCs and events for UN Open GIS — planned and confirmed schedules
 
 ## About This Repository
@@ -13,6 +13,7 @@ The purpose of this repository is to provide visibility and predictability to th
 
 - **Issues for VTC Schedules**: An issue will be created for each VTC schedule. 
 - **Participation**: You are welcome to comment on these issues or reference them from your individual activities.
+- **Presentation:** All VTC presentations are published.
 
 ### Repository Status
 
